@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Rahul kumar sharma</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul200367&label=Profile%20views&color=0e75b6&style=flat" alt="rahul200367" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul200367" alt="rahul200367" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 - 🌱 I’m currently learning **Typescipt ,Nextjs ,Nodejs ,Expressjs**
 
